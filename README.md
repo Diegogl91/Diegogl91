@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Serenity](https://github.com/Diegogl91/proyecto_4geeks)
 
-- 🌱 I’m currently learning **GatsbyJS**
+- 🌱 I’m currently learning **SCSS, Angular**
 
 - 📫 How to reach me **garciadiego03@gmail.com**
 
